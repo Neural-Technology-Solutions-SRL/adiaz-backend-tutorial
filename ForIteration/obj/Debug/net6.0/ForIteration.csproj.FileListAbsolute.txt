@@ -1,0 +1,15 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\bin\Debug\net6.0\ForIteration.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\bin\Debug\net6.0\ForIteration.deps.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\bin\Debug\net6.0\ForIteration.runtimeconfig.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\bin\Debug\net6.0\ForIteration.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\bin\Debug\net6.0\ForIteration.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.AssemblyInfoInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.AssemblyInfo.cs
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\refint\ForIteration.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ForIteration.genruntimeconfig.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ForIteration\obj\Debug\net6.0\ref\ForIteration.dll
