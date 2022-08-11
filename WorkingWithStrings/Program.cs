@@ -45,7 +45,6 @@ namespace WorkingWithStrings
                 myString.Append(i);
             }
 
-
             Console.WriteLine(myString);
             Console.ReadLine();
         }
