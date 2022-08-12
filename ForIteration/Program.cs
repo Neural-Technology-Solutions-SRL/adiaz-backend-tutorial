@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System;
 
-namespace ForIteration
+namespace Variables
 {
     class Program
     {
