@@ -4,7 +4,7 @@ using System.Text;
 using System.Linq;
 using System;
 
-namespace UnderstandingArrays
+namespace Variables
 {
     class Program
     {
