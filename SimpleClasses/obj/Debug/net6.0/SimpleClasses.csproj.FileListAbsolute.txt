@@ -1,0 +1,15 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\bin\Debug\net6.0\SimpleClasses.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\bin\Debug\net6.0\SimpleClasses.deps.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\bin\Debug\net6.0\SimpleClasses.runtimeconfig.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\bin\Debug\net6.0\SimpleClasses.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\bin\Debug\net6.0\SimpleClasses.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\refint\SimpleClasses.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\SimpleClasses.genruntimeconfig.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\SimpleClasses\obj\Debug\net6.0\ref\SimpleClasses.dll
