@@ -1,0 +1,11 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\obj\Debug\MyClient.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\obj\Debug\MyClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\MyClient\MyClient\obj\Debug\MyClient.pdb
