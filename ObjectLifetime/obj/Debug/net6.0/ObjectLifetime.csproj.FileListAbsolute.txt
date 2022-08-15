@@ -1,0 +1,15 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.deps.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.runtimeconfig.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\bin\Debug\net6.0\ObjectLifetime.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.AssemblyInfoInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.AssemblyInfo.cs
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\refint\ObjectLifetime.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ObjectLifetime.genruntimeconfig.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ObjectLifetime\obj\Debug\net6.0\ref\ObjectLifetime.dll
