@@ -1,0 +1,8 @@
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe.config
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.exe
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\bin\Debug\HandlingExceptions.pdb
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.AssemblyReference.cache
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.SuggestedBindingRedirects.cache
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.exe
+C:\git\adiaz-backend-tutorial\HandlingExceptions\HandlingExceptions\obj\Debug\HandlingExceptions.pdb
