@@ -1,0 +1,13 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeClient.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeClient.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.csproj.CopyComplete
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.pdb

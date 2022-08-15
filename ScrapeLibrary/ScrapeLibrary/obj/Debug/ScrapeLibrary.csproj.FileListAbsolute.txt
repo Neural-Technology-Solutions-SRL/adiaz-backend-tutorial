@@ -1,0 +1,6 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeLibrary\bin\Debug\ScrapeLibrary.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeLibrary\bin\Debug\ScrapeLibrary.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeLibrary\obj\Debug\ScrapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeLibrary\obj\Debug\ScrapeLibrary.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\ScrapeLibrary\ScrapeLibrary\obj\Debug\ScrapeLibrary.pdb
