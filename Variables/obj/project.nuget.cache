@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFnjPHjvjmSUrAn5SHTWrZ79XFuxPdEQOBTR65kOaAJ4+AJWqBb459x2hvAn5gzShRbk+fM54DCjwGQEGNSKyg==",
+  "dgSpecHash": "DHhAggS+e6Cq8PFtf7I9EMXfLM6fBgaIbq/OjGOUAREPhatDuuq64oP1Zz//90AgysK0WT5L8600romEbxbvoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adiaz\\OneDrive - Neural Technology Solutions\\Desktop\\gitbranches\\adiaz-backend-tutorial\\Variables\\Variables.csproj",
+  "projectFilePath": "C:\\git\\adiaz-backend-tutorial\\Variables\\Variables.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
