@@ -57,7 +57,17 @@ namespace WorkingWithCollections
 
             Console.WriteLine(myDict["A2"].Make);
             */
-            Car car1 = new Car() { Make = "BMW", Model = "750li", VIN="A1"};
+            // Object initializer
+            //Car car1 = new Car() { Make = "BMW", Model = "750li", VIN="A1"};
+            //Car car2 = new Car() { Make = "HONDA", Model = "accord", VIN = "A2" };
+
+            // Collection initializer
+            List<Car> MyCarList = new List<Car>
+            {
+                new Car { Make = "BMW", Model = "750li", VIN="A1"},
+                new Car { Make = "HONDA", Model = "accord", VIN = "A2" }
+            };
+
             Console.ReadLine();
 
         }
