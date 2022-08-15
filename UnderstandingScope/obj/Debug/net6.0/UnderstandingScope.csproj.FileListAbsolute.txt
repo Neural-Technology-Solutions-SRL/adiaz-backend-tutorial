@@ -1,0 +1,15 @@
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.exe
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.deps.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.runtimeconfig.json
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\bin\Debug\net6.0\UnderstandingScope.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.AssemblyReference.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.AssemblyInfoInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.AssemblyInfo.cs
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\refint\UnderstandingScope.dll
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.pdb
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\UnderstandingScope.genruntimeconfig.cache
+C:\Users\adiaz\OneDrive - Neural Technology Solutions\Desktop\gitbranches\adiaz-backend-tutorial\UnderstandingScope\obj\Debug\net6.0\ref\UnderstandingScope.dll
