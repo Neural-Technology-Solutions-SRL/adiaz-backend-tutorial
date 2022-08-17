@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RR9EvQj7kHabCUFAMul9aYTzvrvH5doUSQxUBeeb7DyRYnNtfco14N0/1OsC7SAmbxLLjyO4KuFiixN1i1LQyg==",
+  "success": true,
+  "projectFilePath": "C:\\git\\adiaz-backend-tutorial\\SuperHeroApi\\SuperHeroApi\\SuperHeroApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adiaz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\adiaz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adiaz\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\adiaz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\adiaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\adiaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
