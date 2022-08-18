@@ -25,3 +25,10 @@ C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\obj\Debug\net6.0\refint\
 C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\obj\Debug\net6.0\SuperHeroApi.pdb
 C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\obj\Debug\net6.0\SuperHeroApi.genruntimeconfig.cache
 C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\obj\Debug\net6.0\ref\SuperHeroApi.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\System.Web.Razor.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\git\adiaz-backend-tutorial\SuperHeroApi\SuperHeroApi\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

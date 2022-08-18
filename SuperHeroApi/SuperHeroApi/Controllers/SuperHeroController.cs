@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Linq;
 using System.Xml.Linq;
 
 namespace SuperHeroApi.Controllers
@@ -7,17 +8,17 @@ namespace SuperHeroApi.Controllers
     [Route("[controller]")][ApiController]
     public class SuperHeroController : ControllerBase
     {
-        private static List<SuperHero> heroes = new List<SuperHero>
+        private static List<SuperHero> heroes = new();/*
             {
                 new SuperHero { Id = 0, Name = "Spider Man", F_Name = "Peter", L_Name = "Parker", Place = "New York City" },
                 new SuperHero { Id = 1, Name = "Iron Man", F_Name = "Tony", L_Name = "Stark", Place = "New York City" },
                 new SuperHero { Id = 2, Name = "Hulk", F_Name = "Robert", L_Name = "Bruce Banner", Place = "New York City" },
-            };
+            };*/
 
         [HttpGet] // GET
-        public async Task<ActionResult<List<SuperHero>>> Get()
+        public async Task<ActionResult<List<SuperHero>>> GetHeroes()
         {
-            Console.Clear();
+            
             foreach(SuperHero hero in heroes)
             {
                 Console.WriteLine(hero.Name);
@@ -26,7 +27,7 @@ namespace SuperHeroApi.Controllers
         }
 
         [HttpGet("{id}")] // GET
-        public async Task<ActionResult<SuperHero>> Get(int id)
+        public async Task<ActionResult<SuperHero>> GetHero(int id)
         {
             var hero = heroes.Find(hero => hero.Id == id);
 
@@ -55,6 +56,24 @@ namespace SuperHeroApi.Controllers
             hero.Place = request.Place;
             
             return Ok(hero);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<ActionResult<List<SuperHero>>> DeleteHero(int id)
+        {
+            var hero = heroes.Find(h => h.Id == id);
+            if (hero is null) return BadRequest("Hero not found");
+
+            heroes.Remove(hero);
+            return Ok(heroes);
+
+        }
+
+        [HttpGet("lastHero")] // GET The last registered hero 
+        public async Task<ActionResult<SuperHero>> GetLastHero()
+        {
+            var last_heroe = heroes.OrderByDescending(hero => hero.Id).FirstOrDefault();
+            return Ok(last_heroe);
         }
     }
 }
