@@ -42,7 +42,7 @@ namespace TodosApi.Controllers
             return Ok(newTodo);
         }
 
-        [HttpPut("title/{id}")] // PUT/title/{id}
+        [HttpPut("{id}/title")] // PUT/{id}/title
         public async Task<ActionResult<Todo>> UpdateTitleTodo(Guid id, UpdateTitleTodo uTodo)
         {
             var eTodo = todos.Find(eTodo => eTodo.Id == id);
@@ -53,7 +53,7 @@ namespace TodosApi.Controllers
             return Ok(eTodo);
         }
 
-        [HttpPut("completed/{id}")] // PUT/completed/{id}
+        [HttpPut("{id}/completed")] // PUT/{id}/completed
         public async Task<ActionResult<Todo>> UpdateStatusTodo(Guid id, UpdateStatusTodo uTodo)
         {
             var eTodo = todos.Find(eTodo => eTodo.Id == id);
